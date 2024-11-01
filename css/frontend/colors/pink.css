@@ -1,0 +1,11 @@
+#tajer_buttons_notification {
+    color: #E03997;
+}
+
+.Tajer a:hover:not(.button) {
+    color: #E03997 !important;
+}
+
+.Tajer div.tajer_product_image a:not(.button) {
+    color: #E03997 !important;
+}

@@ -1,0 +1,18 @@
+.tajer-upgrade-container .meter {
+    width: 100%;
+    background-color: lightgrey;
+    height: 5px;
+    margin-bottom: 10px;
+}
+
+.tajer-upgrade-container .meter > span {
+    width: 0;
+    background-color: #46B450;
+    height: 5px;
+    display: block;
+}
+
+.tajer-upgrade-container .is-active {
+    margin-right: 0;
+    margin-top: 9px;
+}

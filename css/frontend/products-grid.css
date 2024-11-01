@@ -1,0 +1,93 @@
+.Tajer.tajer-container .content {
+    padding: 1em;
+    text-align: center;
+}
+
+.Tajer.tajer-container .content.extra {
+    padding: .5em;
+    text-align: inherit;
+}
+
+/*.Tajer .tajer_price {*/
+/*color: #21ba45;*/
+/*font-weight: bold;*/
+/*}*/
+
+.Tajer .tajer_price {
+    font-weight: bold;
+}
+
+/*.Tajer #tajer_product_pagination {*/
+/*margin-top: 20px;*/
+/*}*/
+
+/*For bootstrap compatibility overwrite its properties*/
+/*.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {*/
+/*z-index: inherit;*/
+/*color: inherit;*/
+/*cursor: default;*/
+/*background: none;*/
+/*border: none;*/
+/*}*/
+
+/*.Tajer.tajer-container .tajer-product.ui.card {*/
+/*width: 23%;*/
+/*box-sizing: border-box;*/
+/*min-width: 150px;*/
+/*margin: 1%;*/
+/*/!*margin-bottom: 1%;*!/*/
+/*/!*box-sizing: border-box;*!/*/
+/*/!*border-top-left-radius: 6px;*!/*/
+/*/!*border-top-right-radius: 6px;*!/*/
+/*/!*background-color: #F4F4F4;*!/*/
+/*/!*box-shadow: rgba(0, 0, 0, 0.219608) 0 1px 2px 0;*!/*/
+/*}*/
+
+/*.Tajer .ui.card {*/
+/*margin: 0;*/
+/*height: 300px;*/
+/*}*/
+
+/*.Tajer.tajer-container .tajer-product.ui.card {*/
+/*width: 24%;*/
+/*/!*box-sizing: border-box;*!/*/
+/*min-width: 130px;*/
+/*margin: .5%;*/
+/*/!*margin-bottom: 1%;*!/*/
+/*box-sizing: border-box;*/
+/*/!*border-top-left-radius: 6px;*!/*/
+/*/!*border-top-right-radius: 6px;*!/*/
+/*/!*background-color: #F4F4F4;*!/*/
+/*/!*box-shadow: rgba(0, 0, 0, 0.219608) 0 1px 2px 0;*!/*/
+/*}*/
+/*.Tajer .ui.card {*/
+/*margin: 0;*/
+/*}*/
+
+/*.tajer_product_image img {*/
+/*box-shadow: none !important;*/
+/*border-top-left-radius: 6px !important;*/
+/*border-top-right-radius: 6px !important;*/
+/*width: 100%;*/
+/*}*/
+
+/*.tajer_product_title {*/
+/*margin: 10px 10px !important;*/
+/*border-bottom: 1px solid #e0e0e0;*/
+/*}*/
+
+/*.tajer_product_excerpt, .tajer_product_full_content {*/
+/*border-bottom: 1px solid #e0e0e0;*/
+/*margin: 5px;*/
+/*}*/
+
+/*.tajer_product_purchase_link {*/
+/*margin: 5px;*/
+/*}*/
+
+/*.tajer_price {*/
+/*color: green;*/
+/*font-weight: bold;*/
+/*float: right;*/
+/*margin: 5px;*/
+/*}*/

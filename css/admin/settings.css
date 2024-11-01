@@ -1,0 +1,158 @@
+.Tajer {
+    box-sizing: border-box;
+}
+
+.Tajer .button {
+    height: inherit !important;
+}
+
+.Tajer .ui.popup {
+    word-wrap: break-word;
+}
+
+/*.Tajer .ui.tab.segment,.Tajer .ui.dropdown.selection, .Tajer .menu.transition.visible, .Tajer input{*/
+/*background-color: #F1F1F1 !important;*/
+/*}*/
+
+/*.Tajer .ui.selection.dropdown .menu{*/
+/*width: 100% !important;*/
+/*min-width: 100% !important;*/
+/*}*/
+
+/*
+.form-group {
+    display: flex;
+}
+
+#tajer_tax_rates_table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+#tajer_tax_rates_table td {
+    position: relative;
+    width: 20%;
+}
+
+.tajer_tax_state, .tajer_tax_global, #tajer_tax_rates_table select {
+    width: 135px;
+}
+
+.tajer_tax_rate {
+    width: 50px;
+}
+
+
+
+
+
+
+.tajer-save-settings-group {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/!*modal*!/
+#drag-and-drop-zone .row{
+    margin-bottom: 15px;
+}
+
+.tajer-import-product{
+    margin-right: 10px !important;
+}
+
+.modal-dialog{
+    z-index: 99999999999999;
+}
+/!*end modal*!/*/
+
+/*progress bar*/
+.bar {
+    height: 18px;
+    background: #1E8CBE;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+/*end progress bar*/
+#drag-and-drop-zone {
+    color: rgb(176, 176, 176);
+    text-align: center;
+    /*padding: 100px 50px;*/
+    border: 2px rgb(176, 176, 176) dashed;
+}
+
+#progress {
+    margin: 20px;
+}
+
+#tajer-filey-upload-button {
+    margin: 0 auto;
+    display: block;
+}
+
+/*upload button*/
+#tajer-filey-upload-button {
+    position: relative;
+    overflow: hidden;
+}
+
+#tajer-filey-upload-button input {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.001
+}
+
+.tajer-filey-upload-button-class {
+    -moz-box-shadow: 0px 0px 0px 2px #b0b0bc;
+    -webkit-box-shadow: 0px 0px 0px 2px #b0b0bc;
+    box-shadow: 0px 0px 0px 2px #b0b0bc;
+    background-color: transparent;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #b0b0bc;
+    /*display:inline-block;*/
+    cursor: pointer;
+    color: #b0b0bc;
+    font-family: arial;
+    /*font-size: 19px;*/
+    padding: 8px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #b0b0bc;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tajer-filey-upload-button-class:hover {
+    background-color: transparent;
+}
+
+.tajer-filey-upload-button-class:active {
+    position: relative;
+    top: 1px;
+}
+
+.tajer-filey-upload-button-class:focus {
+    outline: none;
+}
+
+/*end upload button*/
+.drag-area-text {
+    font-size: large;
+}
+
+#drag-and-drop-zone > div > div:nth-child(1) > div:nth-child(1) > label, #drag-and-drop-zone > div > div:nth-child(2) > div:nth-child(1) > label {
+    float: left;
+}
+
+#drag-and-drop-zone > div > div:nth-child(1) > div:nth-child(2) > div {
+    float: right;
+}

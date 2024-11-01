@@ -1,0 +1,611 @@
+/*.tajer_button_gray {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #dcdcdc;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #ededed 5%, #dfdfdf 100%);*/
+/*background: -ms-linear-gradient(top, #ededed 5%, #dfdfdf 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ededed), color-stop(100%, #dfdfdf));*/
+/*background-color: #ededed;*/
+/*color: #777777;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #ffffff;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*}*/
+
+/*.tajer_button_gray:hover {*/
+/*background: -moz-linear-gradient(center top, #dfdfdf 5%, #ededed 100%);*/
+/*background: -ms-linear-gradient(top, #dfdfdf 5%, #ededed 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #dfdfdf), color-stop(100%, #ededed));*/
+/*background-color: #dfdfdf;*/
+/*}*/
+
+/*.tajer_button_gray:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_white {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #dcdcdc;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #ffffff 5%, #f6f6f6 100%);*/
+/*background: -ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ffffff), color-stop(100%, #f6f6f6));*/
+/*background-color: #ffffff;*/
+/*color: #666666;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #ffffff;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*}*/
+
+/*.tajer_button_white:hover {*/
+/*background: -moz-linear-gradient(center top, #f6f6f6 5%, #ffffff 100%);*/
+/*background: -ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #f6f6f6), color-stop(100%, #ffffff));*/
+/*background-color: #f6f6f6;*/
+/*}*/
+
+/*.tajer_button_white:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_light_gray {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #dcdcdc;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #f9f9f9 5%, #e9e9e9 100%);*/
+/*background: -ms-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #f9f9f9), color-stop(100%, #e9e9e9));*/
+/*background-color: #f9f9f9;*/
+/*color: #666666;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #ffffff;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*box-shadow: inset 1px 1px 0px 0px #ffffff;*/
+/*}*/
+
+/*.tajer_button_light_gray:hover {*/
+/*background: -moz-linear-gradient(center top, #e9e9e9 5%, #f9f9f9 100%);*/
+/*background: -ms-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #e9e9e9), color-stop(100%, #f9f9f9));*/
+/*background-color: #e9e9e9;*/
+/*}*/
+
+/*.tajer_button_light_gray:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_red {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #d83526;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #fe1a00 5%, #ce0100 100%);*/
+/*background: -ms-linear-gradient(top, #fe1a00 5%, #ce0100 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fe1a00', endColorstr='#ce0100');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #fe1a00), color-stop(100%, #ce0100));*/
+/*background-color: #fe1a00;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #b23e35;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #f29c93;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #f29c93;*/
+/*box-shadow: inset 1px 1px 0px 0px #f29c93;*/
+/*}*/
+
+/*.tajer_button_red:hover {*/
+/*background: -moz-linear-gradient(center top, #ce0100 5%, #fe1a00 100%);*/
+/*background: -ms-linear-gradient(top, #ce0100 5%, #fe1a00 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ce0100', endColorstr='#fe1a00');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ce0100), color-stop(100%, #fe1a00));*/
+/*background-color: #ce0100;*/
+/*}*/
+
+/*.tajer_button_red:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_blue {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #337fed;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #3d94f6 5%, #1e62d0 100%);*/
+/*background: -ms-linear-gradient(top, #3d94f6 5%, #1e62d0 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3d94f6', endColorstr='#1e62d0');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #3d94f6), color-stop(100%, #1e62d0));*/
+/*background-color: #3d94f6;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #1570cd;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #97c4fe;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #97c4fe;*/
+/*box-shadow: inset 1px 1px 0px 0px #97c4fe;*/
+/*}*/
+
+/*.tajer_button_blue:hover {*/
+/*background: -moz-linear-gradient(center top, #1e62d0 5%, #3d94f6 100%);*/
+/*background: -ms-linear-gradient(top, #1e62d0 5%, #3d94f6 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e62d0', endColorstr='#3d94f6');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #1e62d0), color-stop(100%, #3d94f6));*/
+/*background-color: #1e62d0;*/
+/*}*/
+
+/*.tajer_button_blue:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_light_blue {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #84bbf3;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #bddbfa 5%, #80b5ea 100%);*/
+/*background: -ms-linear-gradient(top, #bddbfa 5%, #80b5ea 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#80b5ea');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #bddbfa), color-stop(100%, #80b5ea));*/
+/*background-color: #bddbfa;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #528ecc;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #dcecfb;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #dcecfb;*/
+/*box-shadow: inset 1px 1px 0px 0px #dcecfb;*/
+/*}*/
+
+/*.tajer_button_light_blue:hover {*/
+/*background: -moz-linear-gradient(center top, #80b5ea 5%, #bddbfa 100%);*/
+/*background: -ms-linear-gradient(top, #80b5ea 5%, #bddbfa 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80b5ea', endColorstr='#bddbfa');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #80b5ea), color-stop(100%, #bddbfa));*/
+/*background-color: #80b5ea;*/
+/*}*/
+
+/*.tajer_button_light_blue:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_medium_blue {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #469df5;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #79bbff 5%, #4197ee 100%);*/
+/*background: -ms-linear-gradient(top, #79bbff 5%, #4197ee 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #79bbff), color-stop(100%, #4197ee));*/
+/*background-color: #79bbff;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #287ace;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #cae3fc;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #cae3fc;*/
+/*box-shadow: inset 1px 1px 0px 0px #cae3fc;*/
+/*}*/
+
+/*.tajer_button_medium_blue:hover {*/
+/*background: -moz-linear-gradient(center top, #4197ee 5%, #79bbff 100%);*/
+/*background: -ms-linear-gradient(top, #4197ee 5%, #79bbff 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #4197ee), color-stop(100%, #79bbff));*/
+/*background-color: #4197ee;*/
+/*}*/
+
+/*.tajer_button_medium_blue:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_green {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #268a16;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #77d42a 5%, #5cb811 100%);*/
+/*background: -ms-linear-gradient(top, #77d42a 5%, #5cb811 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#77d42a', endColorstr='#5cb811');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #77d42a), color-stop(100%, #5cb811));*/
+/*background-color: #77d42a;*/
+/*color: #306108;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #aade7c;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #caefab;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #caefab;*/
+/*box-shadow: inset 1px 1px 0px 0px #caefab;*/
+/*}*/
+
+/*.tajer_button_green:hover {*/
+/*background: -moz-linear-gradient(center top, #5cb811 5%, #77d42a 100%);*/
+/*background: -ms-linear-gradient(top, #5cb811 5%, #77d42a 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cb811', endColorstr='#77d42a');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #5cb811), color-stop(100%, #77d42a));*/
+/*background-color: #5cb811;*/
+/*}*/
+
+/*.tajer_button_green:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_light_green {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #83c41a;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #9dce2c 5%, #8cb82b 100%);*/
+/*background: -ms-linear-gradient(top, #9dce2c 5%, #8cb82b 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#9dce2c', endColorstr='#8cb82b');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #9dce2c), color-stop(100%, #8cb82b));*/
+/*background-color: #9dce2c;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #689324;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #c1ed9c;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #c1ed9c;*/
+/*box-shadow: inset 1px 1px 0px 0px #c1ed9c;*/
+/*}*/
+
+/*.tajer_button_light_green:hover {*/
+/*background: -moz-linear-gradient(center top, #8cb82b 5%, #9dce2c 100%);*/
+/*background: -ms-linear-gradient(top, #8cb82b 5%, #9dce2c 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8cb82b', endColorstr='#9dce2c');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #8cb82b), color-stop(100%, #9dce2c));*/
+/*background-color: #8cb82b;*/
+/*}*/
+
+/*.tajer_button_light_green:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_yellow {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #ffaa22;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #ffec64 5%, #ffab23 100%);*/
+/*background: -ms-linear-gradient(top, #ffec64 5%, #ffab23 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ffec64), color-stop(100%, #ffab23));*/
+/*background-color: #ffec64;*/
+/*color: #333333;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #ffee66;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #fff6af;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #fff6af;*/
+/*box-shadow: inset 1px 1px 0px 0px #fff6af;*/
+/*}*/
+
+/*.tajer_button_yellow:hover {*/
+/*background: -moz-linear-gradient(center top, #ffab23 5%, #ffec64 100%);*/
+/*background: -ms-linear-gradient(top, #ffab23 5%, #ffec64 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ffab23), color-stop(100%, #ffec64));*/
+/*background-color: #ffab23;*/
+/*}*/
+
+/*.tajer_button_yellow:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_purple {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #a511c0;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #c123de 5%, #a20dbd 100%);*/
+/*background: -ms-linear-gradient(top, #c123de 5%, #a20dbd 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c123de', endColorstr='#a20dbd');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #c123de), color-stop(100%, #a20dbd));*/
+/*background-color: #c123de;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #9b14b3;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #e184f3;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #e184f3;*/
+/*box-shadow: inset 1px 1px 0px 0px #e184f3;*/
+/*}*/
+
+/*.tajer_button_purple:hover {*/
+/*background: -moz-linear-gradient(center top, #a20dbd 5%, #c123de 100%);*/
+/*background: -ms-linear-gradient(top, #a20dbd 5%, #c123de 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a20dbd', endColorstr='#c123de');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #a20dbd), color-stop(100%, #c123de));*/
+/*background-color: #a20dbd;*/
+/*}*/
+
+/*.tajer_button_purple:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_light_purple {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #a946f5;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #c579ff 5%, #a341ee 100%);*/
+/*background: -ms-linear-gradient(top, #c579ff 5%, #a341ee 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c579ff', endColorstr='#a341ee');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #c579ff), color-stop(100%, #a341ee));*/
+/*background-color: #c579ff;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #8628ce;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #e6cafc;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #e6cafc;*/
+/*box-shadow: inset 1px 1px 0px 0px #e6cafc;*/
+/*}*/
+
+/*.tajer_button_light_purple:hover {*/
+/*background: -moz-linear-gradient(center top, #a341ee 5%, #c579ff 100%);*/
+/*background: -ms-linear-gradient(top, #a341ee 5%, #c579ff 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a341ee', endColorstr='#c579ff');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #a341ee), color-stop(100%, #c579ff));*/
+/*background-color: #a341ee;*/
+/*}*/
+
+/*.tajer_button_light_purple:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_dark_purple {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #9c33ed;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #a53df6 5%, #7c16cb 100%);*/
+/*background: -ms-linear-gradient(top, #a53df6 5%, #7c16cb 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a53df6', endColorstr='#7c16cb');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #a53df6), color-stop(100%, #7c16cb));*/
+/*background-color: #a53df6;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #7d15cd;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #d197fe;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #d197fe;*/
+/*box-shadow: inset 1px 1px 0px 0px #d197fe;*/
+/*}*/
+
+/*.tajer_button_dark_purple:hover {*/
+/*background: -moz-linear-gradient(center top, #7c16cb 5%, #a53df6 100%);*/
+/*background: -ms-linear-gradient(top, #7c16cb 5%, #a53df6 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7c16cb', endColorstr='#a53df6');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #7c16cb), color-stop(100%, #a53df6));*/
+/*background-color: #7c16cb;*/
+/*}*/
+
+/*.tajer_button_dark_purple:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_orange {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #eeb44f;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #ffc477 5%, #fb9e25 100%);*/
+/*background: -ms-linear-gradient(top, #ffc477 5%, #fb9e25 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc477', endColorstr='#fb9e25');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ffc477), color-stop(100%, #fb9e25));*/
+/*background-color: #ffc477;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #cc9f52;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #fce2c1;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #fce2c1;*/
+/*box-shadow: inset 1px 1px 0px 0px #fce2c1;*/
+/*}*/
+
+/*.tajer_button_orange:hover {*/
+/*background: -moz-linear-gradient(center top, #fb9e25 5%, #ffc477 100%);*/
+/*background: -ms-linear-gradient(top, #fb9e25 5%, #ffc477 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb9e25', endColorstr='#ffc477');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #fb9e25), color-stop(100%, #ffc477));*/
+/*background-color: #fb9e25;*/
+/*}*/
+
+/*.tajer_button_orange:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_light_orange {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #eeb44f;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #ffce79 5%, #eeaf41 100%);*/
+/*background: -ms-linear-gradient(top, #ffce79 5%, #eeaf41 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffce79', endColorstr='#eeaf41');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ffce79), color-stop(100%, #eeaf41));*/
+/*background-color: #ffce79;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #ce8e28;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #fceaca;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #fceaca;*/
+/*box-shadow: inset 1px 1px 0px 0px #fceaca;*/
+/*}*/
+
+/*.tajer_button_light_orange:hover {*/
+/*background: -moz-linear-gradient(center top, #eeaf41 5%, #ffce79 100%);*/
+/*background: -ms-linear-gradient(top, #eeaf41 5%, #ffce79 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeaf41', endColorstr='#ffce79');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #eeaf41), color-stop(100%, #ffce79));*/
+/*background-color: #eeaf41;*/
+/*}*/
+
+/*.tajer_button_light_orange:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_brown {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #eda933;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #f6b33d 5%, #d29105 100%);*/
+/*background: -ms-linear-gradient(top, #f6b33d 5%, #d29105 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6b33d', endColorstr='#d29105');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #f6b33d), color-stop(100%, #d29105));*/
+/*background-color: #f6b33d;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #cd8a15;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #fed897;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #fed897;*/
+/*box-shadow: inset 1px 1px 0px 0px #fed897;*/
+/*}*/
+
+/*.tajer_button_brown:hover {*/
+/*background: -moz-linear-gradient(center top, #d29105 5%, #f6b33d 100%);*/
+/*background: -ms-linear-gradient(top, #d29105 5%, #f6b33d 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d29105', endColorstr='#f6b33d');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #d29105), color-stop(100%, #f6b33d));*/
+/*background-color: #d29105;*/
+/*}*/
+
+/*.tajer_button_brown:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.tajer_button_pink {*/
+/*font-size: 16px;*/
+/*font-family: Arial;*/
+/*font-weight: normal;*/
+/*-moz-border-radius: 8px;*/
+/*-webkit-border-radius: 8px;*/
+/*border-radius: 8px;*/
+/*border: 1px solid #ee1eb5;*/
+/*padding: 9px 18px;*/
+/*text-decoration: none;*/
+/*background: -moz-linear-gradient(center top, #ff5bb0 5%, #ef027d 100%);*/
+/*background: -ms-linear-gradient(top, #ff5bb0 5%, #ef027d 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bb0', endColorstr='#ef027d');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ff5bb0), color-stop(100%, #ef027d));*/
+/*background-color: #ff5bb0;*/
+/*color: #ffffff;*/
+/*display: inline-block;*/
+/*text-shadow: 1px 1px 0px #c70067;*/
+/*-webkit-box-shadow: inset 1px 1px 0px 0px #fbafe3;*/
+/*-moz-box-shadow: inset 1px 1px 0px 0px #fbafe3;*/
+/*box-shadow: inset 1px 1px 0px 0px #fbafe3;*/
+/*}*/
+
+/*.tajer_button_pink:hover {*/
+/*background: -moz-linear-gradient(center top, #ef027d 5%, #ff5bb0 100%);*/
+/*background: -ms-linear-gradient(top, #ef027d 5%, #ff5bb0 100%);*/
+/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ef027d', endColorstr='#ff5bb0');*/
+/*background: -webkit-gradient(linear, left top, left bottom, color-stop(5%, #ef027d), color-stop(100%, #ff5bb0));*/
+/*background-color: #ef027d;*/
+/*}*/
+
+/*.tajer_button_pink:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/

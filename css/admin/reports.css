@@ -1,0 +1,26 @@
+.Tajer {
+    box-sizing: border-box;
+}
+
+.Tajer .button {
+    height: inherit !important;
+}
+
+#tajer-filter {
+    margin-bottom: 1em;
+}
+
+/*#range {*/
+/*width: 20%;*/
+/*margin: 10px 0 10px 10px;*/
+/*display: inline;*/
+/*}*/
+
+/*#form-horizontal > div > div {*/
+/*margin-top: 20px;*/
+/*}*/
+
+/*.tajer-reports .tajer-saving {*/
+/*display: block;*/
+/*margin-bottom: 10px;*/
+/*}*/

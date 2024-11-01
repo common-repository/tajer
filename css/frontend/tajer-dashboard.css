@@ -1,0 +1,64 @@
+.Tajer .ui.fluid.tiny {
+    margin-bottom: 5px;
+}
+
+.Tajer .tajer-dashboard-table tbody > tr > td > a.tajer-product-details-item:nth-child(1), .Tajer .tajer-cart-table tbody > tr > td > a.tajer-product-details-item:nth-child(1), .Tajer .tajer-wishlist-table tbody > tr > td > a.tajer-product-details-item:nth-child(1) {
+    float: left !important;
+    padding-right: 10px !important;
+    width: 22% !important;
+}
+
+.Tajer .tajer-remove-frontend-product {
+    float: right;
+}
+
+.Tajer td > div#tajer-product-details-container {
+    width: 78% !important;
+    float: left !important;
+}
+
+.Tajer .tajer-dashboard-table tbody > tr > td > a.tajer-product-details-item:nth-child(2) {
+    /*color: #009c95;*/
+    /*font-weight: bold;*/
+}
+
+.Tajer .ui.labeled.icon.button > .icon, .Tajer .ui.labeled.icon.buttons > .button > .icon {
+    background: none !important;
+}
+
+.Tajer .ui.dropdown .menu > .item:hover {
+    background: none !important;
+}
+
+.Tajer a:not(.button) {
+    color: rgba(0, 0, 0, 0.68) !important;
+    font-weight: bold;
+}
+
+/*.Tajer a:hover {*/
+/*color: #00b5ad !important;*/
+/*}*/
+
+.Tajer .ui.mini.label.tajer-product-details-item {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-left: 0;
+    background: none;
+    /*border: 1px solid #DEDEDF;*/
+}
+
+.Tajer .fluid.tiny.ui.labeled.icon.top.button {
+    text-align: center;
+}
+
+/*.Tajer div.tajer_product_image a {*/
+/*color: #6dffff !important;*/
+/*}*/
+
+/*.Tajer div.tajer_product_image a:hover {*/
+/*color: rgba(0, 0, 0, .68) !important;*/
+/*}*/
+
+.Tajer .tajer-dashboard-table .ui.label.tajer-remove-label {
+    white-space: normal;
+}

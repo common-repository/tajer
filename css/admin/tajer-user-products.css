@@ -1,0 +1,78 @@
+#items-per-page-form, #pagination-form {
+    font-size: 11px;
+}
+
+.Tajer label.user-products-input-labels {
+    font-size: 1.3em !important;
+}
+
+.Tajer .tajer-active {
+    color: green;
+}
+
+.Tajer .tajer-inactive {
+    color: red;
+}
+
+#get-this-page-loading {
+    margin: 0;
+}
+
+#items-per-page, #tajer-page-number {
+    width: 3.5em;
+}
+
+#pagination-form .button {
+    font-size: 1.1em;
+}
+
+.Tajer .row:nth-child(1) {
+    padding-bottom: 0 !important;
+}
+
+.Tajer .row:nth-child(3), .Tajer .row:nth-child(4) {
+    padding: 0 !important;
+}
+
+/*.Tajer .row:nth-child(1){*/
+/*padding-bottom: 25px !important;*/
+/*}*/
+/*#tajer-set-items-per-page{*/
+/*font-size: 1em;*/
+/*}*/
+
+/*.Tajer{*/
+/*background-color: white;*/
+/*}*/
+
+.Tajer tbody tr:nth-child(odd) {
+    background-color: rgb(249, 249, 249);
+}
+
+.gears-loading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wpcontent {
+    padding-left: 0;
+    background-color: white;
+}
+
+.Tajer {
+    box-sizing: border-box;
+}
+
+.Tajer .button {
+    height: inherit !important;
+}
+
+#pagination-form {
+    float: right;
+}
+
+.tajer_user_products_message {
+    float: left;
+    color: #00b5ad;
+}

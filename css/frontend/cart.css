@@ -1,0 +1,99 @@
+.Tajer {
+    box-sizing: border-box;
+}
+
+/*.Tajer input {*/
+/*height: 100%;*/
+/*}*/
+
+.Tajer .hidden {
+    visibility: inherit;
+    display: inherit;
+}
+
+/*#tajer_purchase_form_details > div.field{*/
+/*box-sizing: border-box;*/
+/*}*/
+
+.Tajer .tajer_quantity_field {
+    width: auto;
+}
+
+#tajer_checkout_form {
+    margin-top: 10px !important;
+}
+
+#tajer-discount-error-wrap {
+    color: red;
+}
+
+.tajer_remove_from_cart {
+    float: right;
+}
+
+#tajer_cart_form > table > tbody > tr > td > a.tajer-product-details-item:nth-child(1) {
+    /*float: left;*/
+    /*padding-right: 10px;*/
+}
+
+/*Fix dimmer background jumps on toggle*/
+/*similar http://stackoverflow.com/questions/21604674/bootstrap-modal-background-jumps-to-top-on-toggle*/
+.Tajer .animating.dimmable:not(body),
+.Tajer .dimmed.dimmable:not(body) {
+    overflow: visible;
+}
+
+/*Commented this because its hide most "Expiration" dropdown field of the test payment form*/
+/*#tajer_payment_method_selection {*/
+/*overflow: hidden;*/
+/*}*/
+/*End Commented this becase its hide most Expiration dropdown field of the test payment form*/
+
+/*Fix dimmer background jumps on toggle*/
+
+/*.Tajer .tajer_total_price {*/
+/*color: #21ba45;*/
+/*font-size: 1.25em;*/
+/*}*/
+
+.Tajer .tajer_total_price {
+    font-size: 1.25em;
+}
+
+/*.Tajer a.tajer-continue-shopping:hover, .Tajer a#tajer_2checkout_submit_button:hover, .Tajer a#tajer_paypal_submit_button:hover, .Tajer .tajer-conditionals-buttons a:hover {*/
+/*color: rgba(0, 0, 0, .68) !important;*/
+/*}*/
+
+.tajer-clearfix:before,
+.tajer-clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.tajer-clearfix:after {
+    clear: both;
+}
+
+/*a.ui.button.right.floated.tajer-continue-shopping {*/
+/*color: #fff !important;*/
+/*}*/
+
+.tajer-price-name {
+    font-size: .7em;
+    line-height: .5em;
+    display: block;
+    color: rgb(153, 153, 153);
+    font-weight: bold;
+    padding: .5em .5em .5em 0;
+}
+
+#tajer_purchase_form_details > h4 {
+    margin: calc(1.85715rem) 0 1rem;
+}
+
+/*.Tajer .tajer-conditionals-buttons a*/
+
+.tajer-purchase-form-errors-area {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,2081 @@
+# Copyright (C) 2016 Mohammed Thaer
+# This file is distributed under the same license as the Tajer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tajer 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tajer\n"
+"POT-Creation-Date: 2016-06-01 21:29:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+
+#: classes/admin/class-tajer-coupons.php:38
+msgid "Coupons"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:39
+msgid "Parent Coupon:"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:40
+msgid "View Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:41
+msgid "Add New Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:42
+#: classes/admin/class-tajer-products.php:203
+#: templates/admin-user-products-page.php:24
+msgid "Add New"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:43
+msgid "Edit Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:44
+msgid "Update Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:45
+msgid "Search Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:46
+#: classes/admin/class-tajer-products.php:207
+msgid "Not found"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:47
+#: classes/admin/class-tajer-products.php:208
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:75
+msgid "Coupon Code"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:76
+msgid "Start Date"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:77 templates/purchase-form.php:13
+msgid "Expiration"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:78
+msgid "Uses"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:79
+#: classes/admin/class-tajer-orders-page.php:122
+#: classes/admin/class-tajer-orders-page.php:305
+#: classes/admin/class-tajer-user-products.php:351
+#: classes/admin/class-tajer-user-products.php:399
+msgid "Status"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:80
+msgid "Max Uses"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:110
+msgid "Unlimited"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:116
+#: classes/admin/class-tajer-orders-page.php:129
+msgid "Inactive"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:118
+#: classes/admin/class-tajer-orders-page.php:128
+msgid "Active"
+msgstr ""
+
+#: classes/admin/class-tajer-db.php:549
+msgid "Product Added To Cart Successfully!"
+msgstr ""
+
+#: classes/admin/class-tajer-db.php:553
+#: classes/frontend/class-tajer-frontend-product.php:181
+msgid "I Cant Add The Product!"
+msgstr ""
+
+#: classes/admin/class-tajer-db.php:558
+msgid "Product Already In The Cart!"
+msgstr ""
+
+#: classes/admin/class-tajer-downloads-tcpdf.php:17
+msgid "Downloads Report"
+msgstr ""
+
+#: classes/admin/class-tajer-downloads-tcpdf.php:18
+#: classes/admin/class-tajer-sales-tcpdf.php:23
+msgid "Report Creation Date: "
+msgstr ""
+
+#: classes/admin/class-tajer-downloads-tcpdf.php:19
+#: classes/admin/class-tajer-sales-tcpdf.php:24
+msgid "Created By: "
+msgstr ""
+
+#: classes/admin/class-tajer-downloads-tcpdf.php:20
+#: classes/admin/class-tajer-sales-tcpdf.php:25
+msgid "For Period From: "
+msgstr ""
+
+#: classes/admin/class-tajer-downloads-tcpdf.php:21
+#: classes/admin/class-tajer-sales-tcpdf.php:26
+msgid "To: "
+msgstr ""
+
+#: classes/admin/class-tajer-import-export.php:22
+msgid "Please upload a file to import."
+msgstr ""
+
+#: classes/admin/class-tajer-import-export.php:26
+msgid "Please upload a valid .txt file"
+msgstr ""
+
+#: classes/admin/class-tajer-import-export.php:107
+msgid "Tajer-Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:98
+msgid "Order Updated Successfully!"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:100
+msgid "The Order Doesn't Updated!"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:117
+msgid "Gateway Order Id"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:124
+msgid "Completed"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:125
+msgid "Pending"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:126
+msgid "Failed"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:127
+msgid "Refund"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:160
+msgid "can't get the result from the database please contact the plugin author."
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:208
+msgid "Orders"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:261
+#: templates/admin-user-products-page.php:36
+msgid "Item(s) per page"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:277
+#: templates/admin-user-products-page.php:53
+msgid "Page"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:280
+#: templates/admin-user-products-page.php:56
+msgid "of"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:297
+#: classes/admin/class-tajer-products.php:738
+#: classes/admin/class-tajer-user-products.php:391
+msgid "ID"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:298
+msgid "Gateway"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:299
+msgid "Gateway ID"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:300
+#: classes/admin/class-tajer-user-products.php:393
+msgid "User ID"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:301
+msgid "IP"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:302
+msgid "Total"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:303
+msgid "Date"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:304
+#: classes/admin/class-tajer-products.php:198
+msgid "Products"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:306
+msgid "Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:307
+msgid "Action"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:308
+msgid "Action ID"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:309
+#: classes/admin/class-tajer-orders-page.php:338
+#: classes/admin/class-tajer-user-products.php:401
+#: classes/admin/class-tajer-user-products.php:422
+msgid "Edit"
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:343
+#: classes/admin/class-tajer-user-products.php:430
+msgid "No data available so far."
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:356
+msgid "Product ID: "
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:357
+msgid "Product Sub ID: "
+msgstr ""
+
+#: classes/admin/class-tajer-orders-page.php:358 templates/cart.php:48
+msgid "Quantity: "
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:51
+#: classes/admin/class-tajer-products.php:1200
+#: classes/admin/class-tajer-products.php:1253
+#: classes/frontend/class-tajer-content-seller.php:264
+#: classes/frontend/class-tajer-content-seller.php:300
+#: classes/frontend/class-tajer-content-seller.php:340
+msgid "All"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:199
+msgid "Parent Product:"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:200
+msgid "All Products"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:201
+msgid "View Product"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:202
+msgid "Add New Product"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:204
+msgid "Edit Product"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:205
+msgid "Update Product"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:206
+msgid "Search Product"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:251
+msgid "Product Prices"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:259
+msgid "Files & Bundle Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:267
+msgid "Product Stats"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:275
+msgid "Recurring Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:282
+msgid "Upgrade Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:289
+msgid "Trial Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:316
+#: classes/admin/class-tajer-products.php:429
+#: classes/admin/class-tajer-products.php:554
+#: classes/frontend/class-tajer-content-seller.php:233
+msgid "Enable"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:318
+#: classes/admin/class-tajer-products.php:431
+#: classes/admin/class-tajer-products.php:556
+#: classes/frontend/class-tajer-content-seller.php:235
+msgid "Disable"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:327
+#: classes/admin/class-tajer-products.php:365
+#: classes/admin/class-tajer-products.php:439
+#: classes/admin/class-tajer-products.php:485
+#: classes/admin/class-tajer-products.php:565
+#: classes/admin/class-tajer-products.php:619
+#: classes/admin/class-tajer-products.php:824
+#: classes/admin/class-tajer-products.php:1178
+msgid "Price Assignment"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:344
+#: classes/admin/class-tajer-products.php:379
+msgid "Trial Period(In days)"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:350
+#: classes/admin/class-tajer-products.php:385
+msgid "Direct Trial"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:355
+#: classes/admin/class-tajer-products.php:390
+#: classes/admin/class-tajer-thickbox.php:102
+msgid "Yes"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:356
+#: classes/admin/class-tajer-products.php:391
+#: classes/admin/class-tajer-thickbox.php:103
+msgid "No"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:402
+msgid "Add Trial"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:403
+msgid "Remove Trial"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:457
+#: classes/admin/class-tajer-products.php:500
+msgid "Upgrade Fee"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:463
+#: classes/admin/class-tajer-products.php:506
+msgid "Upgrade TO"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:526
+msgid "Add Upgrade"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:527
+msgid "Remove Upgrade"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:582
+#: classes/admin/class-tajer-products.php:633
+msgid "Recurring Fee"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:588
+#: classes/admin/class-tajer-products.php:639
+msgid "Bill Every"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:594
+#: classes/admin/class-tajer-products.php:607
+#: classes/admin/class-tajer-products.php:645
+#: classes/admin/class-tajer-products.php:658
+msgid "Week(s)"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:595
+#: classes/admin/class-tajer-products.php:608
+#: classes/admin/class-tajer-products.php:646
+#: classes/admin/class-tajer-products.php:659
+msgid "Month(s)"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:596
+#: classes/admin/class-tajer-products.php:647 templates/purchase-form.php:35
+msgid "Year"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:601
+#: classes/admin/class-tajer-products.php:652
+msgid "Continue Billing For"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:609
+#: classes/admin/class-tajer-products.php:660
+msgid "Year(s)"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:610
+#: classes/admin/class-tajer-products.php:661
+msgid "Forever"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:671
+msgid "Add Recurring"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:672
+msgid "Remove Recurring"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:686
+msgid "Sales:"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:691
+msgid "Earnings:"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:696
+msgid "Downloads:"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:734
+msgid "Option Name"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:735
+msgid "Price"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:736
+#: classes/admin/class-tajer-products.php:748
+#: classes/admin/class-tajer-products.php:760
+msgid "Options"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:737
+msgid "Default"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:739
+#: classes/admin/class-tajer-products.php:825
+#: classes/admin/class-tajer-products.php:1179
+#: classes/admin/class-tajer-user-products.php:402
+#: classes/admin/class-tajer-user-products.php:425
+#: classes/frontend/class-tajer-content-seller.php:243
+msgid "Delete"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:771
+msgid "Add New Price"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:815
+msgid "Bundle?"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:822
+#: classes/admin/class-tajer-products.php:832
+msgid "File Name"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:823
+msgid "File"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:836
+#: classes/admin/class-tajer-products.php:1145
+msgid "Upload File"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:855
+msgid "Add New Files"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:1176
+#: classes/frontend/class-tajer-content-seller.php:241
+msgid "Product"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:1177
+#: classes/frontend/class-tajer-content-seller.php:242
+msgid "Sub Product(s)"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:1287
+msgid "Add Bundle Product"
+msgstr ""
+
+#: classes/admin/class-tajer-reports.php:116
+msgid "Total Earnings: $"
+msgstr ""
+
+#: classes/admin/class-tajer-reports.php:117
+msgid "Total Sales: "
+msgstr ""
+
+#: classes/admin/class-tajer-reports.php:176
+msgid "Total Downloads: "
+msgstr ""
+
+#: classes/admin/class-tajer-sales-tcpdf.php:22
+msgid "Statistics Report"
+msgstr ""
+
+#: classes/admin/class-tajer-sales-tcpdf.php:37
+msgid "Copyright © "
+msgstr ""
+
+#: classes/admin/class-tajer-sales-tcpdf.php:37
+msgid ".  All rights reserved."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:72
+msgid "Settings haven't been Imported"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:75
+msgid "Settings have been Imported"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:81
+msgid "Settings Imported Successfully!"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:137
+msgid "Cart Page"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:141
+msgid "Select the page that contains [tajer_cart] shortcode."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:144
+msgid "Thank You Page"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:148
+msgid "Select the page that contains [tajer_thank_you] shortcode."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:151
+msgid "Dashboard Page"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:155
+msgid "Select the page that contains [tajer_dashboard] shortcode."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:158
+msgid "Continue Shopping Button Link"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:161
+msgid "For example http://example.com/store"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:164
+msgid "Login Page"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:168
+msgid "Select your website login page."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:171
+msgid "Registration Page"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:175
+msgid "Select your website registration page."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:178
+msgid "User Country Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:181
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the country custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:184
+msgid "User State / Province Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:187
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the state / province custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:190
+msgid "User City/Town Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:193
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the city/town custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:196
+msgid "User Postcode Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:199
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the postcode custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:202
+msgid "User Company Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:205
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the company custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:208
+msgid "User Address 1 Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:211
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the address 1 custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:214
+msgid "User Address 2 Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:217
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the address 2 custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:220
+msgid "User Phone Meta Key"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:223
+msgid ""
+"In order to make Tajer work with any registration method just enter country "
+"meta key of the phone custom field that the user used when "
+"registered(optional)."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:226
+msgid "Primary Color"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:230
+msgid "Tajer general color."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:233
+msgid "Secondary Color"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:237
+msgid "Tajer secondary color."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:240
+msgid "Restrict Trial Versions By User IP"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:243
+msgid ""
+"Tajer will check if current user IP used this trial before, if the user "
+"used it then restrict this user from use this trial version again"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:246
+msgid "Restrict Trial Versions By User Email"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:249
+msgid ""
+"Tajer will check if current user email used this trial before, if the user "
+"used it then restrict this user from use this trial version again"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:252
+msgid "Enable The Upgrade Links At The Frontend Dashboard"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:257
+msgid "Enable The Recurring Links At The Frontend Dashboard"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:262
+msgid "Disable The Download Links At The Frontend Dashboard"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:268
+msgid "Allow The Users To Delete Their Products"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:273
+msgid "Remove all data when delete Tajer?"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:276
+msgid "Check this if you want to delete all data when delete Tajer."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:303
+msgid "Currency Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:307
+msgid "Currency"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:311
+msgid ""
+"Please help us add the missing currencies symbols if there is any, if you "
+"know a missing symbol of a currency please contact us and we will add it "
+"immediately. Please note that some payment gateways have currency "
+"restrictions."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:314
+msgid "Currency Position"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:317
+msgid "Before - &#36;10"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:318
+msgid "After - 10&#36;"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:321
+msgid "Choose the location of the currency sign."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:333
+#: templates/admin-settings-page.php:20
+msgid "Payment Gateways"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:339
+msgid "Default Gateway"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:368
+msgid "Enable Taxes"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:373
+msgid "Fallback Tax Rate"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:378
+msgid "Prices entered with tax"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:381
+msgid "Yes, I will enter prices inclusive of tax"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:382
+msgid "No, I will enter prices exclusive of tax"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:387
+msgid "Display during cart"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:389
+msgid "Including tax"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:389
+msgid "Excluding tax"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:393
+msgid "Display Tax Rate on Prices"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:398
+#: classes/admin/class-tajer-settings.php:831
+msgid "Tax Rates"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:435
+msgid "Export Plugin Settings"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:443
+msgid "Import Settings/Product"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:451
+msgid "Export Product"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:475
+msgid "Enable Purchase Receipt Email"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:481
+msgid "Purchase Receipt Email Subject"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:484
+#: classes/admin/class-tajer-settings.php:490
+#: classes/admin/class-tajer-settings.php:502
+#: classes/admin/class-tajer-settings.php:508
+msgid ""
+"Allowed template tags: {name}, {username}, {order_number}, {price}, "
+"{site_name}, {site_link}, {dashboard_link}"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:487
+msgid "Purchase Receipt Email Body"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:493
+msgid "Enable Admin Sale Notification Emails"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:499
+msgid "New Sale Notification Email Subject"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:505
+msgid "New Sale Notification Email Body"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:511
+msgid "Enable Expiration Notification Emails"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:517
+msgid "Expiration Notification Email Should Send Before The Expiration Date By"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:520
+msgid "In Days"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:523
+msgid "Expiration Notification Email Subject"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:526
+#: classes/admin/class-tajer-settings.php:532
+msgid ""
+"Allowed template tags: {name}, {username}, {order_number}, "
+"{expiration_date}, {number_of_downloads}, {product_name}, {option_name}, "
+"{site_name}, {site_link}, {dashboard_link}"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:529
+msgid "Expiration Notification Email Body"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:793
+msgid ""
+"Select the product that you want to export its settings. Product title, "
+"product content, product excerpt, and all the product settings will be "
+"exported except the files."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:811
+msgid "Export"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:831
+msgid "Enter tax rates for specific regions."
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:836
+msgid "Country"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:837
+msgid "State / Province"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:838
+msgid "Country Wide"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:839
+msgid "Rate"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:840
+msgid "Remove"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:852
+#: classes/admin/class-tajer-settings.php:861
+msgid "Remove Rate"
+msgstr ""
+
+#: classes/admin/class-tajer-settings.php:867
+msgid "Add Tax Rate"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:74
+msgid "Product Link Generator"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:74
+msgid "Insert Product"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:93
+msgid "Use the form below to generate a purchase link for a product"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:94
+msgid "Link For"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:96 includes/tajer-functions.php:1280
+#: templates/dashboard.php:125
+msgid "Buy Now"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:97 templates/dashboard.php:130
+#: templates/pricing-widget.php:27
+msgid "Add To Cart"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:100
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:106
+msgid "Style"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:108
+msgid "Button"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:109
+msgid "Link"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:112
+msgid "Color"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:114
+msgid "Standard Gray"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:115
+msgid "Black"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:116
+msgid "Brown"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:117
+msgid "Pink"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:118
+msgid "Purple"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:119
+msgid "Violet"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:120
+msgid "Blue"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:121
+msgid "Teal"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:122
+msgid "Green"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:123
+msgid "Olive"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:124
+msgid "Yellow"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:125
+msgid "Orange"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:126
+msgid "Red"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:129
+msgid "Text"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:133
+msgid "Select the product"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:135
+msgid "Select"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:144
+msgid "Select the sub product"
+msgstr ""
+
+#: classes/admin/class-tajer-thickbox.php:150
+msgid "Here is your link"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:153
+msgid "User Product Deleted"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:156
+msgid "The User Product Doesn't Deleted"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:197
+msgid "User Product Updated Successfully"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:199
+msgid "The User Product Doesn't Updated"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:205
+msgid "User Product Added Successfully"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:207
+msgid "The User Product Doesn't Added"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:303
+msgid "Username or Email"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:306
+msgid "Enter Username or Email Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:310
+#: classes/admin/class-tajer-user-products.php:392
+msgid "Order ID"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:313
+msgid "Enter Order ID Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:318
+#: classes/admin/class-tajer-user-products.php:394
+msgid "Product ID"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:321
+msgid "Enter Product ID Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:324
+#: classes/admin/class-tajer-user-products.php:395
+msgid "Product Sub ID"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:327
+msgid "Enter Product Sub ID Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:332
+#: classes/admin/class-tajer-user-products.php:396
+msgid "Buying Date"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:334
+msgid "Enter Buying Date Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:337
+#: classes/admin/class-tajer-user-products.php:397
+msgid "Expiration Date"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:339
+msgid "Enter Expiration Date Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:344
+#: classes/admin/class-tajer-user-products.php:398
+msgid "Number Of Downloads"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:347
+msgid "Enter Number Of Downloads Here"
+msgstr ""
+
+#: classes/admin/class-tajer-user-products.php:360
+#: classes/admin/class-tajer-user-products.php:400
+msgid "Activation Method"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:153
+msgid "Cart Emptied"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:156
+msgid "Cant Empty The Cart"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:200
+msgid "Cart Updated Successfully"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:202
+msgid "The Cart Doesn't Updated"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:328
+msgid "You don't have enough permissions to add this product to your dashboard."
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:352
+#: classes/frontend/class-tajer-cart-page.php:355
+#: classes/frontend/class-tajer-cart.php:131
+#: classes/frontend/class-tajer-cart.php:136
+msgid "Recurring is impossible for this product!"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:373
+#: classes/frontend/class-tajer-cart-page.php:376
+#: classes/frontend/class-tajer-cart.php:150
+#: classes/frontend/class-tajer-cart.php:155
+msgid "Upgrading is impossible for this product!"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:386
+msgid ""
+"Bundle Product Added Successfully. You can now manage it from your "
+"dashboard."
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:400
+msgid "Product Added Successfully. You can now manage it from your dashboard."
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:403
+msgid "I Cant Add The Product."
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:432
+msgid "Something wrong happen please contact the website admin!"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:438
+#: classes/frontend/class-tajer-cart-page.php:443
+#: includes/tajer-functions.php:1583 includes/tajer-functions.php:1588
+msgid "The trial version of this product has been activated for you!"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:467
+msgid ""
+"Cant remove incorrect item from the cart, please visit your cart again if "
+"you still see this message contact the website admin!"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:486
+#: includes/tajer-functions.php:1662
+msgid " - includes "
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:486
+#: classes/frontend/class-tajer-frontend-product.php:71
+#: classes/frontend/class-tajer-frontend-product.php:73
+#: includes/tajer-functions.php:1662
+msgid "% tax"
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:486
+#: includes/tajer-functions.php:1662
+msgid " - excludes "
+msgstr ""
+
+#: classes/frontend/class-tajer-cart-page.php:549
+msgid "You don't have enough permissions to add this product to your dashboard!"
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:73
+msgid "You must be logged in and have a valid license to access this content."
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:74
+msgid "Your subscription to access this content has been expired."
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:92
+#: classes/frontend/class-tajer-content-seller.php:169
+msgid ""
+"Your subscription to access this content is inactive, for more information "
+"please contact the website administrator."
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:98
+#: classes/frontend/class-tajer-content-seller.php:174
+#: classes/frontend/class-tajer-dashboard.php:204
+msgid "Error contact website admin!"
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:176
+msgid "Your subscription has been expired!"
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:199
+msgid "Content Seller"
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:316
+msgid "Add Product"
+msgstr ""
+
+#: classes/frontend/class-tajer-content-seller.php:322
+msgid "Restrict the content access for only the customers of the selected products."
+msgstr ""
+
+#: classes/frontend/class-tajer-dashboard.php:50
+msgid "Product Removed Successfully!"
+msgstr ""
+
+#: classes/frontend/class-tajer-dashboard.php:53
+#: classes/frontend/class-tajer-frontend-product.php:192
+#: includes/tajer-functions.php:1539
+msgid "Cant Remove The Product!"
+msgstr ""
+
+#: classes/frontend/class-tajer-dashboard.php:107
+msgid "Security check"
+msgstr ""
+
+#: classes/frontend/class-tajer-dashboard.php:114
+msgid "Unfortunately you can't download this file!"
+msgstr ""
+
+#: classes/frontend/class-tajer-dashboard.php:133
+msgid "The product doesn't exist!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:62
+#: classes/frontend/class-tajer-frontend-scripts.php:43
+msgid "Remove From Cart?"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:62
+#: classes/frontend/class-tajer-frontend-scripts.php:42
+msgid "Add To Cart?"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:71
+msgid "Including "
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:73
+msgid "Excluding "
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:98
+msgid "You must login to buy this product!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:120
+msgid "You must have enough permissions to add this product to your products."
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:177
+msgid "Product Added Successfully!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:188
+msgid "Product Removed!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:216
+msgid "Product added!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-product.php:224
+msgid "You just added this product!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:39
+msgid "Are you sure?"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:40
+msgid "Yes, delete it!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:41
+msgid "Deleted!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:44
+msgid "Your product has been deleted."
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:45
+msgid "Working..."
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:46
+msgid "I logged in, refresh now!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:47
+msgid "Login!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:48
+msgid "Exist!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:49
+msgid "Added!"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:51
+#: templates/purchase-form.php:63
+msgid "Checkout"
+msgstr ""
+
+#: classes/frontend/class-tajer-frontend-scripts.php:52
+msgid "Continue Shopping"
+msgstr ""
+
+#: classes/frontend/class-tajer-logger.php:29
+msgid "Logs"
+msgstr ""
+
+#: classes/frontend/class-tajer-order.php:206
+msgid "Recurring Error"
+msgstr ""
+
+#: classes/frontend/class-tajer-order.php:207
+msgid "Recurring expiration date for the "
+msgstr ""
+
+#: classes/frontend/class-tajer-order.php:207
+msgid " user product id is bigger than current date("
+msgstr ""
+
+#: classes/frontend/class-tajer-order.php:207
+msgid ") and the continue billing for its product is not equal to Forever."
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:25
+#: includes/gateways/paypal-standard.php:26
+msgid "PayPal"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:45
+msgid "PayPal Settings"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:49
+msgid "Test Mode"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:52
+msgid "Enable or disable PayPal demo mode."
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:55
+msgid "PayPal Email"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:58
+msgid "Enter your PayPal account's email"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:61
+msgid "PayPal Page Style"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:64
+msgid "Enter the name of the page style to use, or leave blank for default"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:67
+msgid "Disable PayPal IPN Verification"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:70
+msgid ""
+"If payments are not getting marked as complete, then check this box. This "
+"forces the site to use a slightly less secure method of verifying purchases."
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:96 templates/empty-cart.php:17
+#: templates/empty-dashboard.php:18 templates/purchase-form.php:67
+msgid "Continue Shopping?"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:157
+msgid "Product(s)"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:269
+#: includes/gateways/paypal-standard.php:283
+msgid "Invalid IPN verification response. IPN data: %s"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:337
+msgid "This is not a PayPal standard IPN. IPN data: %s"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:345
+msgid "Invalid business email in IPN response. IPN data: %s"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:353
+msgid "Invalid currency in IPN response. IPN data: %s"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:369
+msgid "Invalid payment amount in IPN response. IPN data: %s"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:376
+msgid "Invalid secret code in IPN response. IPN data: %s"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:400
+msgid "Payment made via eCheck and will clear automatically in 5-8 days"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:406
+msgid ""
+"Payment requires a confirmed customer address and must be accepted manually "
+"through PayPal"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:412
+msgid ""
+"Payment must be accepted manually through PayPal due to international "
+"account regulations"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:418
+msgid ""
+"Payment received in non-shop currency and must be accepted manually through "
+"PayPal"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:425
+msgid ""
+"Payment is being reviewed by PayPal staff as high-risk or in possible "
+"violation of government regulations"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:431
+msgid "Payment was sent to non-confirmed or non-registered email address."
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:437
+msgid "PayPal account must be upgraded before this payment can be accepted"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:443
+msgid ""
+"PayPal account is not verified. Verify account in order to accept this "
+"payment"
+msgstr ""
+
+#: includes/gateways/paypal-standard.php:449
+msgid ""
+"Payment is pending for unknown reasons. Contact PayPal support for "
+"assistance"
+msgstr ""
+
+#: includes/gateways/test.php:7 includes/gateways/test.php:8
+msgid "Test Payment"
+msgstr ""
+
+#: includes/tajer-functions.php:1027
+msgid "This discount is invalid."
+msgstr ""
+
+#: includes/tajer-functions.php:1032
+msgid "This discount is not effective yet."
+msgstr ""
+
+#: includes/tajer-functions.php:1037
+msgid "This discount is expired."
+msgstr ""
+
+#: includes/tajer-functions.php:1042
+msgid "This discount is inactive."
+msgstr ""
+
+#: includes/tajer-functions.php:1047
+msgid "This discount has reached the maximum number of coupons."
+msgstr ""
+
+#: includes/tajer-functions.php:1052
+msgid "Sorry, this coupon is only available for purchases over "
+msgstr ""
+
+#: includes/tajer-functions.php:1512
+msgid "Please login first!"
+msgstr ""
+
+#: includes/tajer-functions.php:1536
+msgid "Product Removed From Cart!"
+msgstr ""
+
+#: includes/tajer-functions.php:1576
+msgid "Something wrong happen please contact the website admin"
+msgstr ""
+
+#: includes/tajer-upgrades.php:19
+msgid "Tajer needs to upgrade its database, click %shere%s to start the upgrade."
+msgstr ""
+
+#: includes/tajer-upgrades.php:43
+msgid ""
+"The upgrade process has started, please be patient. This could take several "
+"minutes. You will be noticed when the process is finished."
+msgstr ""
+
+#: includes/tajer-upgrades.php:44
+msgid "Tajer database upgraded successfully!"
+msgstr ""
+
+#: includes/tajer-widgets.php:15
+msgid "Tajer Product Pricing"
+msgstr ""
+
+#: includes/tajer-widgets.php:19
+msgid "Display product pricing with add to cart options and checkout."
+msgstr ""
+
+#: includes/tajer-widgets.php:61
+msgid "Title:"
+msgstr ""
+
+#: templates/admin-order-modal.php:11 templates/admin-order-modal.php:19
+msgid "Add New Order"
+msgstr ""
+
+#: templates/admin-order-modal.php:20 templates/admin-order-modal.php:34
+#: templates/admin-user-products-page.php:92
+#: templates/admin-user-products-page.php:106
+msgid "Add"
+msgstr ""
+
+#: templates/admin-order-modal.php:22
+msgid "Edit Order"
+msgstr ""
+
+#: templates/admin-order-modal.php:23 templates/admin-user-products-page.php:95
+msgid "Update"
+msgstr ""
+
+#: templates/admin-order-modal.php:33
+#: templates/admin-user-products-page.php:105
+msgid "Cancel"
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:12
+msgid "Price Expiration"
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:17
+msgid "In days, leave it empty for lifetime option."
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:22
+msgid "File Download Limit"
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:27
+msgid ""
+"The maximum number of times files can be downloaded, leave it empty for "
+"unlimited number of times."
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:34 templates/grid-price.php:5
+msgid "Free"
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:39
+msgid "Sale"
+msgstr ""
+
+#: templates/admin-price-options-dialog.php:45
+msgid "Roles:"
+msgstr ""
+
+#: templates/admin-products-file-upload-dialog.php:7
+msgid "Drag your files here to upload"
+msgstr ""
+
+#: templates/admin-products-file-upload-dialog.php:9
+#: templates/admin-settings-modal-form.php:57
+msgid "or"
+msgstr ""
+
+#: templates/admin-products-file-upload-dialog.php:16
+msgid "Select Files"
+msgstr ""
+
+#: templates/admin-products-select-file-dialog.php:10
+msgid "File:"
+msgstr ""
+
+#: templates/admin-reports-page.php:10 templates/admin-reports-page.php:20
+msgid "Reports"
+msgstr ""
+
+#: templates/admin-reports-page.php:18
+msgid "Analytics"
+msgstr ""
+
+#: templates/admin-reports-page.php:29
+msgid "Current Month"
+msgstr ""
+
+#: templates/admin-reports-page.php:31
+msgid "Last Month"
+msgstr ""
+
+#: templates/admin-reports-page.php:32
+msgid "Today"
+msgstr ""
+
+#: templates/admin-reports-page.php:33
+msgid "Yesterday"
+msgstr ""
+
+#: templates/admin-reports-page.php:35
+msgid "Current Week"
+msgstr ""
+
+#: templates/admin-reports-page.php:36
+msgid "Last Week"
+msgstr ""
+
+#: templates/admin-reports-page.php:38
+msgid "Current Year"
+msgstr ""
+
+#: templates/admin-reports-page.php:39
+msgid "Last Year"
+msgstr ""
+
+#: templates/admin-reports-page.php:40
+msgid "Custom"
+msgstr ""
+
+#: templates/admin-reports-page.php:53
+msgid "Filter"
+msgstr ""
+
+#: templates/admin-reports-page.php:59
+msgid "Report For"
+msgstr ""
+
+#: templates/admin-reports-page.php:66
+msgid "File Type"
+msgstr ""
+
+#: templates/admin-reports-page.php:73
+msgid "From"
+msgstr ""
+
+#: templates/admin-reports-page.php:76
+msgid "From this date"
+msgstr ""
+
+#: templates/admin-reports-page.php:80
+msgid "To"
+msgstr ""
+
+#: templates/admin-reports-page.php:82
+msgid "To this date"
+msgstr ""
+
+#: templates/admin-reports-page.php:87
+msgid "Generate File"
+msgstr ""
+
+#: templates/admin-reports-page.php:96
+msgid "Total sales for period shown: "
+msgstr ""
+
+#: templates/admin-reports-page.php:99
+msgid "Total earnings for period shown: "
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:10
+#: templates/admin-settings-modal-form.php:31
+msgid "Import Settings"
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:16
+msgid "Import?"
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:24
+msgid "Import Product"
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:40
+msgid ""
+"Select the product that you want to import the product settings to it. "
+"Product title, product content, product excerpt, and all the product "
+"settings will be imported except the files."
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:41
+msgid "Select Product"
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:55
+msgid "Drag your settings file here to upload"
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:61
+msgid "Select File"
+msgstr ""
+
+#: templates/admin-settings-modal-form.php:71
+msgid "Close"
+msgstr ""
+
+#: templates/admin-settings-page.php:10
+msgid "Tajer Settings"
+msgstr ""
+
+#: templates/admin-settings-page.php:18
+msgid "General Settings"
+msgstr ""
+
+#: templates/admin-settings-page.php:21
+msgid "Emails"
+msgstr ""
+
+#: templates/admin-settings-page.php:22
+msgid "Taxes"
+msgstr ""
+
+#: templates/admin-settings-page.php:23
+msgid "Tools"
+msgstr ""
+
+#: templates/admin-settings-page.php:25
+msgid "Support & Licensing"
+msgstr ""
+
+#: templates/admin-settings-page.php:56
+msgid "Save All Changes"
+msgstr ""
+
+#: templates/admin-user-products-page.php:16
+msgid "User Products"
+msgstr ""
+
+#: templates/admin-user-products-page.php:83
+#: templates/admin-user-products-page.php:91
+msgid "Add New User Product"
+msgstr ""
+
+#: templates/admin-user-products-page.php:94
+msgid "Edit User Product"
+msgstr ""
+
+#: templates/cart.php:17 templates/dashboard.php:9
+msgid "Product Details"
+msgstr ""
+
+#: templates/cart.php:18
+msgid "Order Details"
+msgstr ""
+
+#: templates/cart.php:46
+msgid "Price: "
+msgstr ""
+
+#: templates/cart.php:72
+msgid "Empty Cart"
+msgstr ""
+
+#: templates/cart.php:76
+msgid "Total: "
+msgstr ""
+
+#: templates/cart.php:96
+msgid "Could you check something!"
+msgstr ""
+
+#: templates/cart.php:115
+msgid "Discount"
+msgstr ""
+
+#: templates/cart.php:121
+msgid "Enter a coupon code if you have one."
+msgstr ""
+
+#: templates/cart.php:125
+msgid "Apply"
+msgstr ""
+
+#: templates/cart.php:154
+msgid "Select Payment Method"
+msgstr ""
+
+#: templates/dashboard.php:10
+msgid "Product Options"
+msgstr ""
+
+#: templates/dashboard.php:32
+msgid "Expiration Date: "
+msgstr ""
+
+#: templates/dashboard.php:39
+msgid "Expired!"
+msgstr ""
+
+#: templates/dashboard.php:47
+msgid "You exceeded the download limit of this file!"
+msgstr ""
+
+#: templates/dashboard.php:55
+msgid ""
+"Your product now is inactive, for more information\r\n"
+"\t\t\t\tplease contact the website administrator."
+msgstr ""
+
+#: templates/dashboard.php:74
+msgid "Download"
+msgstr ""
+
+#: templates/dashboard.php:89
+msgid "Renew"
+msgstr ""
+
+#: templates/dashboard.php:95
+msgid "Renew "
+msgstr ""
+
+#: templates/dashboard.php:95 templates/dashboard.php:113
+msgid " for "
+msgstr ""
+
+#: templates/dashboard.php:106
+msgid "Upgrade"
+msgstr ""
+
+#: templates/dashboard.php:113
+msgid "Upgrade to "
+msgstr ""
+
+#: templates/empty-cart.php:13
+msgid "Your Cart Is Empty!"
+msgstr ""
+
+#: templates/empty-dashboard.php:14
+msgid "You didn't purchase any products yet!"
+msgstr ""
+
+#: templates/grid-image.php:8
+msgid "More"
+msgstr ""
+
+#: templates/purchase-form.php:2
+msgid "Billing Information"
+msgstr ""
+
+#: templates/purchase-form.php:5
+msgid "Card Number"
+msgstr ""
+
+#: templates/purchase-form.php:6
+msgid "Card #"
+msgstr ""
+
+#: templates/purchase-form.php:9 templates/purchase-form.php:10
+msgid "CVC"
+msgstr ""
+
+#: templates/purchase-form.php:18
+msgid "Month"
+msgstr ""
+
+#: templates/purchase-form.php:19
+msgid "January"
+msgstr ""
+
+#: templates/purchase-form.php:20
+msgid "February"
+msgstr ""
+
+#: templates/purchase-form.php:21
+msgid "March"
+msgstr ""
+
+#: templates/purchase-form.php:22
+msgid "April"
+msgstr ""
+
+#: templates/purchase-form.php:23
+msgid "May"
+msgstr ""
+
+#: templates/purchase-form.php:24
+msgid "June"
+msgstr ""
+
+#: templates/purchase-form.php:25
+msgid "July"
+msgstr ""
+
+#: templates/purchase-form.php:26
+msgid "August"
+msgstr ""
+
+#: templates/purchase-form.php:27
+msgid "September"
+msgstr ""
+
+#: templates/purchase-form.php:28
+msgid "October"
+msgstr ""
+
+#: templates/purchase-form.php:29
+msgid "November"
+msgstr ""
+
+#: templates/purchase-form.php:30
+msgid "December"
+msgstr ""
+
+#: templates/restrict-cart-access.php:13
+msgid "Please login first in order to access your cart or to buy from us."
+msgstr ""
+
+#: templates/restrict-cart-access.php:18
+#: templates/restrict-dashboard-access.php:18
+msgid "Login"
+msgstr ""
+
+#: templates/restrict-cart-access.php:22
+#: templates/restrict-dashboard-access.php:22
+msgid "Register"
+msgstr ""
+
+#: templates/restrict-dashboard-access.php:13
+msgid "Please login first to access your products."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Tajer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://mostasharoon.org/tajer/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Tajer is an electronic merchant that can sell your digital products instead "
+"of you."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mohammed Thaer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://mostasharoon.org"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:36
+msgctxt "Post Type General Name"
+msgid "Coupons"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:196
+msgctxt "Post Type General Name"
+msgid "Products"
+msgstr ""
+
+#: classes/admin/class-tajer-coupons.php:37
+msgctxt "Post Type Singular Name"
+msgid "Coupon"
+msgstr ""
+
+#: classes/admin/class-tajer-products.php:197
+msgctxt "Post Type Singular Name"
+msgid "Product"
+msgstr ""
+
+#: classes/frontend/class-tajer-products-grid.php:358
+msgctxt "product post type name"
+msgid "No %s found"
+msgstr ""

@@ -1,0 +1,216 @@
+#upgrade_table, #trial_table, #upgrade_table .tajer_upgrade_recurrence_n, .tajer_trial_trial_period, .tajer-file-url {
+    width: 100%;
+}
+
+#multiple_files_table > tbody > tr:nth-child(2) > td:nth-child(4) {
+    width: 1%;
+}
+
+#tajer-new-price-id {
+    width: 2em;
+}
+
+span.tajer_price_id {
+    background-color: #FFF797;;
+}
+
+.tajer-file-path-wrapper {
+    position: relative;
+}
+
+.tajer-upload-file {
+    position: absolute;
+    top: 6px;
+    background-color: white;
+    right: 3px;
+    width: 25%;
+    text-decoration: none;
+}
+
+#multiple_price_table > thead > tr, #multiple_files_table > tbody > tr:nth-child(1), #tajer_bundle_table > tbody > tr:nth-child(1) {
+    /*border-bottom: 1px solid #cacaca;*/
+}
+
+/*sortable*/
+.ui-state-highlight {
+    /*height: 3em;*/
+    height: 100%;
+    padding: 5px;
+    background: none !important;
+    /*background-color: rgba(12,45,45,0) !important;*/
+    /*margin-bottom: 1.25em;*/
+}
+
+.tajer_draghandle {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: url(../../images/tajer-cross-hair.png);
+    cursor: move;
+    margin: 4px 0 0;
+}
+
+/*#multiple_price_table td:nth-child(1) {*/
+/*width: 1% !important;*/
+/*}*/
+
+/*table#multiple_price_table tbody tr{*/
+/*display: block;*/
+/*}*/
+
+/*table#multiple_price_table td{*/
+/*padding: 5px;*/
+/*text-align: center;*/
+/*}*/
+/*progress bar*/
+/*.bar {*/
+/*height: 18px;*/
+/*background: #1E8CBE;*/
+
+/*-webkit-border-radius: 5px;*/
+/*-moz-border-radius: 5px;*/
+/*border-radius: 5px;*/
+/*}*/
+
+/*dialog*/
+/*.ui-dialog .ui-dialog-titlebar-close span {*/
+/*margin: -8px !important;*/
+/*}*/
+
+/*#drag-and-drop-zone {*/
+/*border: 1px dashed #cacaca;*/
+/*}*/
+
+/*.drag-area-text {*/
+/*text-align: center;*/
+/*font-size: large;*/
+/*color: rgb(176, 176, 176);*/
+/*}*/
+
+/*********************
+upload button
+*********************/
+/*#fileupload-example-5 {*/
+/*position: relative;*/
+/*overflow: hidden;*/
+/*}*/
+
+/*#fileupload-example-5 input {*/
+/*position: absolute;*/
+/*top: 0;*/
+/*bottom: 0;*/
+/*left: 0;*/
+/*right: 0;*/
+/*opacity: 0.001*/
+/*}*/
+
+/*.myButton {*/
+/*-moz-box-shadow: 0px 0px 0px 2px #b0b0bc;*/
+/*-webkit-box-shadow: 0px 0px 0px 2px #b0b0bc;*/
+/*box-shadow: 0px 0px 0px 2px #b0b0bc;*/
+/*background-color: transparent;*/
+/*-moz-border-radius: 10px;*/
+/*-webkit-border-radius: 10px;*/
+/*border-radius: 10px;*/
+/*border: 1px solid #b0b0bc;*/
+/*/!*display:inline-block;*!/*/
+/*cursor: pointer;*/
+/*color: #b0b0bc;*/
+/*font-family: arial;*/
+/*font-size: 19px;*/
+/*padding: 8px 24px;*/
+/*text-decoration: none;*/
+/*text-shadow: 0px 1px 0px #b0b0bc;*/
+
+/*display: block;*/
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+/*}*/
+
+/*.myButton:hover {*/
+/*background-color: transparent;*/
+/*}*/
+
+/*.myButton:active {*/
+/*position: relative;*/
+/*top: 1px;*/
+/*}*/
+
+/*.myButton:focus {*/
+/*outline: none;*/
+/*}*/
+
+/*Recurring Style*/
+#recurring_table {
+    table-layout: fixed;
+    /*width: 900px;*/
+}
+
+#recurring_table > tbody > tr:nth-child(4) > td:nth-child(2) {
+    position: relative;
+    /*left: -75px;*/
+}
+
+#recurring_table > tbody input.tajer_recurring_recurrence_n {
+    width: 160px;
+}
+
+#tajer_recurring > div.inside > div > a.tajer-remove-recurring, #tajer_upgrade > div.inside > div > a.tajer-remove-upgrade, #tajer_trial > div.inside > div > a.tajer-remove-trial {
+    margin-left: 5px !important;
+}
+
+/*Files Uploader dialog*/
+/*.ui-widget-content {*/
+/*background: none;*/
+/*}*/
+
+/*.ui-dialog .ui-dialog-title {*/
+/*margin: 0;*/
+/*}*/
+
+/*.ui-icon-closethick {*/
+/*display: none !important;*/
+/*}*/
+
+/*.ui-dialog-titlebar-close {*/
+/*height: 70px !important;*/
+/*}*/
+
+/*End Files Uploader dialog*/
+
+/*#tajer-files-area .tajer-add-file.button-secondary {*/
+/*margin-right: 10px;*/
+/*}*/
+
+#select-file-dialog > fieldset > label {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    display: block;
+}
+
+/*Price Options Dialog*/
+#price-options-dialog input[type="text"] {
+    width: 100%;
+}
+
+#price-options-dialog td:nth-child(1), #multiple_files_table td:nth-child(1) {
+    width: 200px;
+}
+
+/*End Price Options Dialog*/
+
+#multiple_price_table {
+    width: 100%;
+}
+
+#multiple_price_table > tbody > tr > td:nth-child(1) {
+    width: 20px !important;
+}
+
+#multiple_price_table > tbody > tr > td:nth-child(2) > input[type="text"] {
+    width: 390px;
+}
+
+#multiple_price_table > tbody > tr > td:nth-child(3) > input[type="text"] {
+    width: 180px;
+}

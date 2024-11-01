@@ -1,0 +1,39 @@
+/*#tajer_buttons_notification {*/
+/*color: #00b5ad;*/
+/*}*/
+
+.Tajer .ui.vertical.basic.buttons {
+    width: 100%;
+    padding: 2%;
+}
+
+.Tajer a.tajer-pricing-widget-checkout-link {
+    text-decoration: underline !important;
+    font-weight: normal !important;
+}
+
+/*****************************************************************************************
+For bootstrap compatibility overwrite its properties, conflict with animated fade button
+*****************************************************************************************/
+.Tajer#tajer_prices .hidden {
+    display: inherit !important;
+    visibility: inherit !important;
+}
+
+.Tajer#tajer_prices .fade {
+    opacity: 1 !important;
+}
+
+/*****************************************************************************************
+End for bootstrap compatibility overwrite its properties, conflict with animated fade button
+*****************************************************************************************/
+
+/*#tajer_prices {*/
+/*position: relative;*/
+/*padding: 1.5em;*/
+/*}*/
+/*#tajer_buttons_notification {*/
+/*position: absolute;*/
+/*top: 0;*/
+/*left: 1.5em;*/
+/*}*/

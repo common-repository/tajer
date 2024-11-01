@@ -1,0 +1,44 @@
+/*delete row*/
+.tajer_remove_repeatable, .tajer_content_seller_remove_row, .tajer_remove_repeatable_files, .tajer_remove_repeatable_file_assignment, .tajer_remove_repeatable_bundle_product {
+    margin: 8px 0 0 0;
+    cursor: pointer;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.tajer_remove_repeatable:active, .tajer_content_seller_remove_row:active, .tajer_remove_repeatable:hover, .tajer_content_seller_remove_row:hover, .tajer_remove_repeatable_files:active, .tajer_remove_repeatable_files:hover, .tajer_remove_repeatable_file_assignment:active, .tajer_remove_repeatable_file_assignment:hover, .tajer_remove_repeatable_bundle_product:active, .tajer_remove_repeatable_bundle_product:hover {
+    background-position: -10px 0 !important
+}
+
+#tajer_content_seller_table th, #tajer_content_seller_table td, .tajer_enable_multiple_price th, .tajer_enable_multiple_price td, .tajer_enable_multiple_files th, .tajer_enable_multiple_files td, #tajer_bundle_table th, #tajer_bundle_table td {
+    padding: 5px;
+    text-align: center;
+}
+
+/**********************************************************************************************************************the problem from here*/
+
+#tajer_content_seller_table, .tajer_enable_multiple_files table, #tajer_bundle_table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/*************************************************************************************************************************************to here*/
+
+#tajer_content_seller_restriction_message {
+    display: block;
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#tajer_content_seller_restriction_message_label {
+    display: block;
+    margin-top: 20px;
+}
+
+.tajer_enable_content_seller {
+    margin-bottom: 30px;
+}
